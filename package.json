@@ -7,7 +7,7 @@
     "test": "mocha server/**/*.test.js",
     "test-watch": "nodemon --exec 'npm test'"
   },
-  "author": "",
+  "author": "Victor Hugo M. Pinto",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.18.2",
